@@ -6,6 +6,7 @@ require (
 	github.com/dop251/goja v0.0.0-20220124171016-cfb079cdc7b4
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/zap v1.21.0
+	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
 )
 
 require (
